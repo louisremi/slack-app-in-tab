@@ -1,6 +1,6 @@
 {
   "name": "Slack App-in-Tab",
-  "description": "Open the slack app in your browser to switch between multiple workspaces in a single tab",
+  "description": "Open the Slack app with its multi-workspace sidebar in a simple browser tab",
   "version": "1.0",
   "manifest_version": 2,
   "icons": {
